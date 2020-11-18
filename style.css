@@ -2,4 +2,8 @@ tr{
   padding-bottom: 25px;
   
   }
+
+  .alert:hover{
+    color: blanchedalmond;
+  }
   
